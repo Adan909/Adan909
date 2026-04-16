@@ -1,4 +1,4 @@
-<h1 style="color:#2E86C1;">Presentación Personal</h1>
+<h1 style="color:#2E86C1;">Sobre mi</h1>
 
 <p>
 Mi nombre es <strong>Adán</strong>. Soy estudiante con interés en el desarrollo de software, entusiasta de la inteligencia artificial, enfocado en la creación de soluciones prácticas mediante programación.
