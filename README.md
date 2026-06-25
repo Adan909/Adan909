@@ -7,7 +7,7 @@ Mi nombre es <strong>Adán</strong>. Soy estudiante con interés en el desarroll
 <h2 style="color:#117A65;">Sobre mí</h2>
 <ul>
   <li>Actualmente estudio Ingenieria en sistemas y pronto, quimica</li>
-  <li>Estoy desarrollando un proyecto en Python creando mi propio LLM bendecido como "Guard.AI" para tareas basicas, en un futuro pienso hacer uno orientado a redes</li>
+  <li>Actualmente aprendiendo Figma y Affinity</li>
   <li>También trabajo en Java, C# y aprendiendo React</li>
 </ul>
 
