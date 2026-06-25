@@ -20,14 +20,14 @@ Mi nombre es <strong>Adán</strong>. Soy estudiante con interés en el desarroll
 
 <h2 style="color:#884EA0;">Habilidades</h2>
 <ul>
-  <li>Python (desarrollo en consola)</li>
+  <li>Bases de datos</li>
   <li>UI/UX</li>
-  <li>Estructuración de proyectos con múltiples archivos</li>
+  <li>Frontend</li>
 </ul>
 
 <h2 style="color:#B03A2E;">Objetivo</h2>
 <p>
-Seguir fortaleciendo mis habilidades en programación e inteligencia artificial, desarrollando proyectos más complejos y orientados a resolver problemas reales en el sector financiero.
+Seguir fortaleciendo mis habilidades en programación e inteligencia artificial, desarrollando proyectos más complejos y orientados a resolver problemas reales en el sector Medico.
 </p>
 
 <hr>
