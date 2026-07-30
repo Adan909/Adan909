@@ -13,7 +13,7 @@ Mi nombre es <strong>Adán</strong>. Soy estudiante con interés en el desarroll
 
 <h2 style="color:#AF601A;">Intereses</h2>
 <ul>
-  <li>Inteligencia artificial</li>
+  <li>Diseño UI/UX</li>
   <li>Desarrollo de software</li>
   <li>Videojuegos</li>
 </ul>
