@@ -27,7 +27,7 @@ Mi nombre es <strong>Adán</strong>. Soy estudiante con interés en el desarroll
 
 <h2 style="color:#B03A2E;">Objetivo</h2>
 <p>
-Seguir fortaleciendo mis habilidades en programación e inteligencia artificial, desarrollando proyectos más complejos y orientados a resolver problemas reales en el sector Medico.
+Seguir fortaleciendo mis habilidades en programación, diseño y inteligencia artificial, desarrollando proyectos más complejos y orientados a resolver problemas reales en el sector Medico.
 </p>
 
 <hr>
