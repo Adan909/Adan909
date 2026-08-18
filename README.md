@@ -1,7 +1,7 @@
 <h1 style="color:#2E86C1;">Mucho Gusto!</h1>
 
 <p>
-Mi nombre es <strong>Adán</strong>. Soy estudiante con interés en el desarrollo de software, entusiasta de la inteligencia artificial, enfocado en la creación de soluciones prácticas mediante programación.
+Mi nombre es <strong>Adán</strong>. Soy estudiante de Ingenieria en Sistemas y soy entusiasta del UI/UX
 </p>
 
 <h2 style="color:#117A65;">Sobre mí</h2>
@@ -27,7 +27,7 @@ Mi nombre es <strong>Adán</strong>. Soy estudiante con interés en el desarroll
 
 <h2 style="color:#B03A2E;">Objetivo</h2>
 <p>
-Seguir fortaleciendo mis habilidades en programación, diseño y inteligencia artificial, desarrollando proyectos más complejos y orientados a resolver problemas reales en el sector Medico.
+Landear un trabajo de UI/UX en Spotify
 </p>
 
 <hr>
