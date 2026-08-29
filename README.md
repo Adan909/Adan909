@@ -26,9 +26,10 @@
 </ul>
 
 <h3 align="left"><span style="color: #FFB5C0;">🎯 Objetivo</span></h3>
-<p>
-  Landear un trabajo de UI/UX en Spotify
-</p>
+<ul>
+  <li>Landear un trabajo de UI/UX en Spotify</li>
+  
+</ul>
 
 <h3 align="left"><span style="color: #FFB5C0;">🎮 Intereses</span></h3>
 <ul>
