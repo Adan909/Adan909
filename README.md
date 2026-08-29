@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFB5C0&center=true&vCenter=true&width=500&height=70&lines=¡Mucho+Gusto!;Soy+Adán+👋" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFB5C0&center=true&vCenter=true&width=500&height=70&lines=¡Mucho+Gusto!;Soy+Adán+👋" alt="Presentacion :)" />
 
 Mi nombre es **Adán**. Soy estudiante de Ingenieria en Sistemas y soy entusiasta del UI/UX
 
@@ -15,16 +15,16 @@ Mi nombre es **Adán**. Soy estudiante de Ingenieria en Sistemas y soy entusiast
 ---
 
 ### <span style="color: #FFB5C0;">✨ Sobre mí</span>
-- Actualmente estudio Ingenieria en sistemas y pronto, quimica
-- Actualmente aprendiendo Figma y Affinity
-- También trabajo en Java, C# y aprendiendo React
+- Estudiante de Ingenieria en sistemas
+- Adicto a Figma
+- Avanzado en Diseño UX/UI
 
 ### <span style="color: #FFB5C0;">🎯 Objetivo</span>
 Landear un trabajo de UI/UX en Spotify
 
 ### <span style="color: #FFB5C0;">🎮 Intereses</span>
-- Diseño UI/UX
-- Desarrollo de software
+- Diseño UX/UI
+- Linux
 - Videojuegos
 
 ### <span style="color: #FFB5C0;">🛠️ Habilidades</span>
