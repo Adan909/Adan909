@@ -63,8 +63,8 @@
 <a href="https://modem-proto-42158368.figma.site" target="_blank" style="text-decoration: none;">
   <table border="0" width="100%" style="background-color: #1a1a1a; border-radius: 8px; border: 1px solid #FFB5C0;">
     <tr>
-      <td width="70" align="center" valign="middle">
-        <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <td width="90" align="center" valign="middle">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGUwcGYyZGtuenA4MDE3YjNvenpqcnViNWZ2dWZtZmU2czA0NWZ0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KWQbjrNVOIlSRECvN1/giphy.gif" alt="Figma Prototype GIF" width="80" style="border-radius: 6px;" />
       </td>
       <td valign="middle">
         <strong style="color: #FFB5C0; font-size: 16px;">Prototipo para JaguarBox</strong><br />
@@ -77,7 +77,6 @@
     </tr>
   </table>
 </a>
-
 ---
 
 <div align="center">
