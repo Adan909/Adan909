@@ -27,7 +27,7 @@
 
 <h3 align="left"><span style="color: #FFB5C0;">🎨Objetivo</span></h3>
 <ul>
-  <li>Landear un trabajo de UI/UX en Spotify</li>
+  <li>Landear un trabajo de UX/UI en Spotify</li>
   
 </ul>
 
