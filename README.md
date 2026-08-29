@@ -18,27 +18,27 @@
 
 ---
 
-<h3 align="left"><span style="color: #FFB5C0;">✨ Sobre mí</span></h3>
+<h3 align="left"><span style="color: #FFB5C0;">🎻Sobre mí</span></h3>
 <ul>
   <li>Estudiante de Ingenieria en SIstemas</li>
   <li>Adicto a Figma</li>
   <li>Avanzado en UX/UI y prototipados</li>
 </ul>
 
-<h3 align="left"><span style="color: #FFB5C0;">🎯 Objetivo</span></h3>
+<h3 align="left"><span style="color: #FFB5C0;">🎨Objetivo</span></h3>
 <ul>
   <li>Landear un trabajo de UI/UX en Spotify</li>
   
 </ul>
 
-<h3 align="left"><span style="color: #FFB5C0;">🎮 Intereses</span></h3>
+<h3 align="left"><span style="color: #FFB5C0;">🎮Intereses</span></h3>
 <ul>
   <li>Diseño UX/UI</li>
   <li>Desarrollo de software</li>
   <li>Videojuegos</li>
 </ul>
 
-<h3 align="left"><span style="color: #FFB5C0;">🛠️ Habilidades</span></h3>
+<h3 align="left"><span style="color: #FFB5C0;">🛠️Habilidades</span></h3>
 <ul>
   <li>Prototipado de Interfaces</li>
   <li>Experiencia de Usuario</li>
