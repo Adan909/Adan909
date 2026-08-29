@@ -36,10 +36,10 @@ Landear un trabajo de UI/UX en Spotify
 
 <div align="center">
 
-<a href="https://open.spotify.com/track/622sXb5hIq8hZkE6aLdY5G" target="_blank">
+[<a href="https://open.spotify.com/track/622sXb5hIq8hZkE6aLdY5G" target="_blank">
   <img src="https://scannables.scdn.co/uri/plain/jpeg/000000/white/640/spotify:track:622sXb5hIq8hZkE6aLdY5G" alt="Spotify Code - Goddess de Laufey" width="300" />
 </a>
-
+](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs?si=2721799927dc415d)
 <br>
 
 <p style="color:gray;">Redes sociales:</p>
