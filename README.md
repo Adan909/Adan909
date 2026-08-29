@@ -1,9 +1,5 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFB5C0&center=true&vCenter=true&width=500&height=70&lines=¡Mucho+Gusto!;Soy+Adán+👋" alt="Presentacion :)" />
-
-  <br /><br />
-
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjY2ZDYyN2Zhc3ZxcmRxZnpwMDluY2g2MGNvMnhpOHltZ3R1czd2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mpsoMAyASUzhELpDhj/giphy.gif" alt="Konata - I use arch btw" width="400" />
   
   <br /><br />
