@@ -36,7 +36,7 @@ Landear un trabajo de UI/UX en Spotify
 
 <div align="center">
 
-<img src="https://spotify-github-profile.kittywitch.dev/api/view?uid=spotify&cover_image=true&theme=novathevulpix&show_offline=true&background_color=181818&interact=true" alt="Spotify Player" width="400" />
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2OzhA8R2B3R2B8sVq4A67F?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br>
 
