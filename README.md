@@ -5,7 +5,7 @@
   <br /><br />
 
   <p>
-    Mi nombre es <strong>Adán</strong>. Soy estudiante de Ingenieria en Sistemas y soy entusiasta del UI/UX
+    Mi nombre es <strong>Adán</strong>. Soy estudiante de Ingenieria en Sistemas y soy entusiasta del UX/UI
   </p>
 
   <p>
