@@ -4,7 +4,7 @@
 
   <br /><br />
 
-  <img src="https://media.giphy.com/media/L3ERvA6jWCd0qO4NdX/giphy.gif" alt="Konata - I use arch btw" width="400" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjY2ZDYyN2Zhc3ZxcmRxZnpwMDluY2g2MGNvMnhpOHltZ3R1czd2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mpsoMAyASUzhELpDhj/giphy.gif" alt="Konata - I use arch btw" width="400" />
   
   <br /><br />
 
@@ -65,7 +65,4 @@
   <p style="color:gray;">Redes sociales:</p>
   
   <a href="https://www.instagram.com/jorgeadanotg/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FFB5C0?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
-  </a>
-
-</div>
+    <img src="
