@@ -48,6 +48,10 @@
   <li>Prototipado de Interfaces</li>
   <li>Experiencia de Usuario</li>
   <li>Frontend</li>
+  ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+
+[![Algebra Calculadora](https://svg.bookmark.style/api?url=https://github.com/Adan909/Algebra_Calculadora.git&mode=dark&style=horizontal)](https://github.com/Adan909/Algebra_Calculadora.git)
+[![Figma Prototype](https://svg.bookmark.style/api?url=https://modem-proto-42158368.figma.site&mo
 </ul>
 
 ---
