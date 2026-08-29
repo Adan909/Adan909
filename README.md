@@ -67,8 +67,9 @@
         <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
       </td>
       <td valign="middle">
-        <strong style="color: #FFB5C0; font-size: 16px;">Figma Live Prototype</strong><br />
-        <span style="color: #cccccc; font-size: 13px;">Explora la demo interactiva en línea de mi prototipo UX/UI</span>
+        <strong style="color: #FFB5C0; font-size: 16px;">Prototipo para JaguarBox</strong><br />
+        <span style="color: #cccccc; font-size: 13px;">Explora la demo interactiva en línea de mi prototipo UX/UI</span><br /><br />
+        <strong style="color: #FFB5C0; font-size: 15px;">🔑 USUARIO: admin | CONTRASEÑA: admin</strong>
       </td>
       <td width="40" align="center" valign="middle">
         <span style="color: #FFB5C0; font-size: 18px;">➔</span>
