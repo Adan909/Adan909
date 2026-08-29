@@ -77,7 +77,6 @@
     </tr>
   </table>
 </a>
----
 
 <div align="center">
 
