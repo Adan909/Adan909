@@ -20,7 +20,7 @@
 
 <h3 align="left"><span style="color: #FFB5C0;">🎻Sobre mí</span></h3>
 <ul>
-  <li>Estudiante de Ingenieria en SIstemas</li>
+  <li>Fan de Laufey</li>
   <li>Adicto a Figma</li>
   <li>Avanzado en UX/UI y prototipados</li>
 </ul>
