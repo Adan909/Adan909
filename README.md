@@ -4,7 +4,7 @@
 
   <br /><br />
 
-  <img src="https://media.tenor.com/images/7376c9415712e52e50529d4c728340d1/tenor.gif" alt="Konata waving: I use arch btw" width="400" />
+  <img src="https://media.giphy.com/media/L3ERvA6jWCd0qO4NdX/giphy.gif" alt="Konata - I use arch btw" width="400" />
   
   <br /><br />
 
