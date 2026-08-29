@@ -36,7 +36,9 @@ Landear un trabajo de UI/UX en Spotify
 
 <div align="center">
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2OzhA8R2B3R2B8sVq4A67F?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<a href="https://open.spotify.com/track/622sXb5hIq8hZkE6aLdY5G" target="_blank">
+  <img src="https://scannables.scdn.co/uri/plain/jpeg/000000/white/640/spotify:track:622sXb5hIq8hZkE6aLdY5G" alt="Spotify Code - Goddess de Laufey" width="300" />
+</a>
 
 <br>
 
