@@ -85,8 +85,6 @@
   <br /><br />
 
   <p style="color:gray;">Redes sociales:</p>
-  <p>Instagram: https://www.instagram.com/jorgeadanotg/</p>
-
   <a href="https://www.instagram.com/jorgeadanotg/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FFB5C0?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
   </a>
