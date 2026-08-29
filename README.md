@@ -2,6 +2,12 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFB5C0&center=true&vCenter=true&width=500&height=70&lines=¡Mucho+Gusto!;Soy+Adán+👋" alt="Presentacion :)" />
 
+  <br /><br />
+
+  <img src="https://media.tenor.com/images/7376c9415712e52e50529d4c728340d1/tenor.gif" alt="Konata waving: I use arch btw" width="400" />
+  
+  <br /><br />
+
   <p>
     Mi nombre es <strong>Adán</strong>. Soy estudiante de Ingenieria en Sistemas y soy entusiasta del UI/UX
   </p>
@@ -28,7 +34,6 @@
 <h3 align="left"><span style="color: #FFB5C0;">🎨Objetivo</span></h3>
 <ul>
   <li>Landear un trabajo de UX/UI en Spotify</li>
-  
 </ul>
 
 <h3 align="left"><span style="color: #FFB5C0;">🎮Intereses</span></h3>
