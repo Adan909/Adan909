@@ -48,11 +48,34 @@
   <li>Prototipado de Interfaces</li>
   <li>Experiencia de Usuario</li>
   <li>Frontend</li>
-  ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-[![Algebra Calculadora](https://svg.bookmark.style/api?url=https://github.com/Adan909/Algebra_Calculadora.git&mode=dark&style=horizontal)](https://github.com/Adan909/Algebra_Calculadora.git)
-[![Figma Prototype](https://svg.bookmark.style/api?url=https://modem-proto-42158368.figma.site&mo
 </ul>
+
+---
+
+<h3 align="left"><span style="color: #FFB5C0;">📌 Currently working on</span></h3>
+
+<a href="https://github.com/Adan909/Algebra_Calculadora.git" target="_blank">
+  <img src="https://svg.bookmark.style/api?url=https://github.com/Adan909/Algebra_Calculadora&mode=dark&style=horizontal" alt="Algebra Calculadora" width="100%" />
+</a>
+
+<br /><br />
+
+<a href="https://modem-proto-42158368.figma.site" target="_blank" style="text-decoration: none;">
+  <table border="0" width="100%" style="background-color: #1a1a1a; border-radius: 8px; border: 1px solid #FFB5C0;">
+    <tr>
+      <td width="70" align="center" valign="middle">
+        <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      </td>
+      <td valign="middle">
+        <strong style="color: #FFB5C0; font-size: 16px;">Figma Live Prototype</strong><br />
+        <span style="color: #cccccc; font-size: 13px;">Explora la demo interactiva en línea de mi prototipo UX/UI</span>
+      </td>
+      <td width="40" align="center" valign="middle">
+        <span style="color: #FFB5C0; font-size: 18px;">➔</span>
+      </td>
+    </tr>
+  </table>
+</a>
 
 ---
 
@@ -73,5 +96,4 @@
     <img src="https://img.shields.io/badge/Instagram-FFB5C0?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
   </a>
 
-
-
+</div>
