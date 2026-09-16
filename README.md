@@ -7,7 +7,7 @@
 **Estudiante de Ingeniería en Sistemas & Entusiasta del UX/UI** | Figma · Prototipado · React
 
 <a href="https://github.com/Adan909">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFB5C0&center=true&vCenter=true&width=650&lines=Dise%C3%B1ando+experiencias+centradas+en+el+usuario;Aprendiendo+sin+parar;Fan+de+Laufey+%F0%9F%8E%BB;Buscando+llegar+a+Spotify+como+UX%2FUI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFB5C0&center=true&vCenter=true&width=650&lines=Dise%C3%B1ando+experiencias+centradas+en+el+usuario;Aprendiendo+sin+parar;Fan+de+Laufey+%F0%9F%8E%BB;Grr+dame+chamba+Spotify+te+lo+ruego" alt="Typing SVG" />
 </a>
 
 
