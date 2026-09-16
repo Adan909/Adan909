@@ -4,7 +4,7 @@
 
 # 🎨 Adán
 
-**Estudiante de Ingeniería en Sistemas & Entusiasta del UX/UI** | Figma · Prototipado · Frontend · Java · C# · React
+**Estudiante de Ingeniería en Sistemas & Entusiasta del UX/UI** | Figma · Prototipado · React
 
 <a href="https://github.com/Adan909">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFB5C0&center=true&vCenter=true&width=650&lines=Dise%C3%B1ando+experiencias+centradas+en+el+usuario;Prototipando+en+Figma+sin+parar;Aprendiendo+desarrollo+de+software;Fan+de+Laufey+%F0%9F%8E%BB;Buscando+llegar+a+Spotify+como+UX%2FUI" alt="Typing SVG" />
@@ -71,7 +71,7 @@ const adan: Estudiante = {
 
 ## 🎯 Objetivo
 
-- 🎧 Landear un trabajo de **UX/UI en Spotify**
+- 🎧 Conseguir una intership de **UX/UI en Spotify**
 
 ---
 
@@ -82,7 +82,7 @@ const adan: Estudiante = {
 ## 🎮 Intereses
 
 - 🎨 Diseño UX/UI
-- 💻 Desarrollo de software
+- 🎵 Musica
 - 🕹️ Videojuegos
 
 ---
@@ -170,7 +170,7 @@ const adan: Estudiante = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Gracias%20por%20visitar!&fontSize=35&fontColor=fff&fontAlignY=75" />
 
-**⭐️ De [Adán](https://github.com/Adan909) — Hecho con 💜 en Markdown**
+**⭐️ De [Adán](https://github.com/Adan909)
 
 <img src="https://komarev.com/ghpvc/?username=Adan909&label=Profile%20Views&color=FFB5C0&style=flat-square" />
 
