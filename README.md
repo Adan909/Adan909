@@ -67,7 +67,6 @@ const adan: Estudiante = {
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=Objetivo&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
-## 🎯 Objetivo
 
 - 🎧 Conseguir una intership de **UX/UI en Spotify**
 
@@ -76,8 +75,6 @@ const adan: Estudiante = {
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=Intereses&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
-
-## 🎮 Intereses
 
 - 🎨 Diseño UX/UI
 - 🎵 Musica
@@ -89,7 +86,7 @@ const adan: Estudiante = {
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=70&section=header&text=Habilidades&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
-## 🛠️ Habilidades
+
 
 <div align="center">
 
@@ -107,7 +104,7 @@ const adan: Estudiante = {
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,6,11&height=70&section=header&text=En%20que%20estoy%20trabajando&fontSize=26&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
-## 📌 En qué estoy trabajando
+
 
 <a href="https://github.com/Adan909/Algebra_Calculadora.git" target="_blank">
   <img src="https://svg.bookmark.style/api?url=https://github.com/Adan909/Algebra_Calculadora&mode=dark&style=horizontal" alt="Algebra Calculadora" width="100%" />
@@ -139,7 +136,6 @@ const adan: Estudiante = {
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,20,25&height=70&section=header&text=Escuchando%20ahora&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
-## 🎵 Escuchando ahora
 
 <div align="center">
 
