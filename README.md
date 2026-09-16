@@ -26,8 +26,9 @@
 
 ### 🧭 Navegación Rápida
 
-[👋 Sobre mí](#-sobre-mí) · [🎯 Objetivo](#-objetivo) · [🎮 Intereses](#-intereses) · [🛠️ Habilidades](#️-habilidades) · [📌 En qué estoy trabajando](#-en-qué-estoy-trabajando) · [🎵 Escuchando ahora](#-escuchando-ahora) · [🤝 Redes sociales](#-redes-sociales)
-
+[![Sobre mí](https://img.shields.io/badge/👋_Sobre_mí-FFB5C0?style=flat-square&labelColor=1a1a1a)](#-sobre-mí)
+[![Objetivo](https://img.shields.io/badge/🎯_Objetivo-FFB5C0?style=flat-square&labelColor=1a1a1a)](#-objetivo)
+[![Intereses](https://img.shields.io/badge/🎮_Intereses-FFB5C0?style=flat-square&labelColor=1a1a1a)](#-intereses)
 </div>
 
 ---
