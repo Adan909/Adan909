@@ -26,9 +26,13 @@
 
 ### 🧭 Navegación Rápida
 
-[![Sobre mí](https://img.shields.io/badge/👋_Sobre_mí-FFB5C0?style=flat-square&labelColor=1a1a1a)](#-sobre-mí)
-[![Objetivo](https://img.shields.io/badge/🎯_Objetivo-FFB5C0?style=flat-square&labelColor=1a1a1a)](#-objetivo)
-[![Intereses](https://img.shields.io/badge/🎮_Intereses-FFB5C0?style=flat-square&labelColor=1a1a1a)](#-intereses)
+[![Sobre mí](https://img.shields.io/badge/👋_Sobre_mí-FFB5C0?style=for-the-badge&labelColor=1a1a1a)](#-sobre-mí)
+[![Objetivo](https://img.shields.io/badge/🎯_Objetivo-FFB5C0?style=for-the-badge&labelColor=1a1a1a)](#-objetivo)
+[![Intereses](https://img.shields.io/badge/🎮_Intereses-FFB5C0?style=for-the-badge&labelColor=1a1a1a)](#-intereses)
+[![Habilidades](https://img.shields.io/badge/🛠️_Habilidades-FFB5C0?style=for-the-badge&labelColor=1a1a1a)](#️-habilidades)
+[![En qué estoy trabajando](https://img.shields.io/badge/📌_En_qué_estoy_trabajando-FFB5C0?style=for-the-badge&labelColor=1a1a1a)](#-en-qué-estoy-trabajando)
+[![Escuchando ahora](https://img.shields.io/badge/🎵_Escuchando_ahora-FFB5C0?style=for-the-badge&labelColor=1a1a1a)](#-escuchando-ahora)
+[![Redes sociales](https://img.shields.io/badge/🤝_Redes_sociales-FFB5C0?style=for-the-badge&labelColor=1a1a1a)](#-redes-sociales)
 </div>
 
 ---
