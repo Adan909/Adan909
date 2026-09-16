@@ -94,7 +94,7 @@ const adan: Estudiante = {
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,linux,java,cs,react&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=figma,linux,java,cs,react,arch&theme=dark&perline=5" />
 </a>
 
 <br><br>
