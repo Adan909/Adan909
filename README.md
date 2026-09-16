@@ -42,10 +42,10 @@
 const adan: Estudiante = {
   nombre:    "Adán",
   carrera:   "Ingeniería en Sistemas",
-  pasion:    "🎨 UX/UI",
+  pasion:    "UX/UI",
 
   sobreMi: [
-    "🎻 Fan de Laufey",
+    "🎻 Fan del Arte, la musica y el teatro",
     "🖌️ Adicto a Figma",
     "🎨 Avanzado en UX/UI y prototipados",
   ],
@@ -57,7 +57,7 @@ const adan: Estudiante = {
     sistemas:  ["Linux"],
   },
 
-  objetivo: "Landear un trabajo de UX/UI en Spotify",
+  Idiomas: "Espanol Nativo e Ingles C1",
 };
 ```
 
