@@ -10,8 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFB5C0&center=true&vCenter=true&width=650&lines=Dise%C3%B1ando+experiencias+centradas+en+el+usuario;Prototipando+en+Figma+sin+parar;Aprendiendo+desarrollo+de+software;Fan+de+Laufey+%F0%9F%8E%BB;Buscando+llegar+a+Spotify+como+UX%2FUI" alt="Typing SVG" />
 </a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-FFB5C0?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/jorgeadanotg/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adan909)
 
 <br>
 
