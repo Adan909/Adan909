@@ -41,7 +41,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD1DC,50:FF8FAB,100:C9184A&height=70&section=header&text=Sobre%20mi&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
-## 👋 Sobre mí
+
 
 ```typescript
 const adan: Estudiante = {
