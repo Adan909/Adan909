@@ -38,7 +38,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFB5C0,100:C08497&height=70&section=header&text=Sobre%20mi&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD1DC,50:FF8FAB,100:C9184A&height=70&section=header&text=Sobre%20mi&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 ## 👋 Sobre mí
@@ -69,7 +69,7 @@ const adan: Estudiante = {
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFB5C0,100:C08497&height=70&section=header&text=Objetivo&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFC2D6,50:FF6F91,100:B5174E&height=70&section=header&text=Objetivo&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 
@@ -78,7 +78,7 @@ const adan: Estudiante = {
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=g0:FFB5C0,100:C08497&height=70&section=header&text=Intereses&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFB5C0,50:FF4D6D,100:A4133C&height=70&section=header&text=Intereses&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 - 🎨 Diseño UX/UI
@@ -88,7 +88,7 @@ const adan: Estudiante = {
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFB5C0,100:C08497&height=70&section=header&text=Habilidades&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFE0E9,50:FF758F,100:D6336C&height=70&section=header&text=Habilidades&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 
@@ -106,7 +106,7 @@ const adan: Estudiante = {
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=g0:FFB5C0,100:C08497&height=70&section=header&text=En%20que%20estoy%20trabajando&fontSize=26&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFCAD4,50:FF477E,100:C1121F&height=70&section=header&text=En%20que%20estoy%20trabajando&fontSize=26&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 
@@ -138,7 +138,7 @@ const adan: Estudiante = {
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFB5C0,100:C08497&height=70&section=header&text=Escuchando%20ahora&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD6E0,50:FF5C8A,100:AD1457&height=70&section=header&text=Escuchando%20ahora&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 
@@ -167,7 +167,7 @@ const adan: Estudiante = {
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Gracias%20por%20visitar!&fontSize=35&fontColor=fff&fontAlignY=75" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,25:FF8FAB,50:FF4D6D,75:C9184A,100:800F2C&height=150&section=footer&text=Gracias%20por%20visitar!&fontSize=35&fontColor=fff&fontAlignY=75" />
 
 **⭐️ De [Adán](https://github.com/Adan909)
 
